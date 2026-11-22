@@ -11,6 +11,7 @@ Just open `index.html`. No build step, no backend, no account. Your progress liv
 
 
 https://github.com/user-attachments/assets/c3efabe6-5db0-417b-8516-d64461ee6050
+
 [![Watch the 30-second teaser](teaser-poster.jpg)](teaser-en.mp4)
 
 
